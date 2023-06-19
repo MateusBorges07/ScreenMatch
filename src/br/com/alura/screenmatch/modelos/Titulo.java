@@ -26,6 +26,7 @@ public class Titulo implements Comparable <Titulo>{
 
     }
 
+
     public String getNome() {
         return nome;
     }
